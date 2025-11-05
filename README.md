@@ -103,8 +103,8 @@ You can:
 
 ## 📬 **Contact**
 For feedback or collaboration:
-- GitHub: `Menna-AbdElGawad`
-- LinkedIn (optional): www.linkedin.com/in/menna-abdelgawad-bb19b0279
+- 🔗 GitHub: [Menna-AbdElGawad](https://github.com/Menna-AbdElGawad)
+- 💼 LinkedIn: [Menna Abdelgawad](https://www.linkedin.com/in/menna-abdelgawad-bb19b0279)
 
 ---
 
